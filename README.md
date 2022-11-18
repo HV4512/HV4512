@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HV4512](https://github.com/HV4512)
 
-- 📫 How to reach me **jbykarn@gmail.com**
+- 📫 How to reach me **jobbykarn@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/11Xgt3HYExNF_Hxj6zrVnf37xNwi1CReB/view?usp=sharing](https://drive.google.com/file/d/11Xgt3HYExNF_Hxj6zrVnf37xNwi1CReB/view?usp=sharing)
 
