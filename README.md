@@ -7,7 +7,7 @@
 
 - 📫 How to reach me --- **jobbykarn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11Xgt3HYExNF_Hxj6zrVnf37xNwi1CReB/view?usp=sharing](https://drive.google.com/file/d/11Xgt3HYExNF_Hxj6zrVnf37xNwi1CReB/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1pjCq_8GRle5PHa7baZDj4Nu7QnrTcCbE/view?usp=sharing](https://drive.google.com/file/d/1pjCq_8GRle5PHa7baZDj4Nu7QnrTcCbE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
