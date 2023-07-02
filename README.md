@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
 <h3 align="center">A technological know-how enthusiast.</h3>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HV4512](https://github.com/HV4512)
 
 - 📫 How to reach me --- **jobbykarn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pjCq_8GRle5PHa7baZDj4Nu7QnrTcCbE/view?usp=sharing](https://drive.google.com/file/d/1pjCq_8GRle5PHa7baZDj4Nu7QnrTcCbE/view?usp=sharing)
+- 📄 Know about my experiences [https://tinyurl.com/hv4512)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
