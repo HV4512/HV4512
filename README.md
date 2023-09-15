@@ -10,7 +10,7 @@
 
 - 📫 How to reach me --- **jobbykarn@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/hv_4512)
+- 📄 Know about my experiences [https://rb.gy/rmlsd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
