@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Vardhan</h1>
 <h3 align="center">A technological know-how enthusiast.</h3>
 
-- 🌱 I’m currently learning **TailwindCSS**
+- 🌱 I’m currently learning **Neural Networks**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HV4512](https://github.com/HV4512)
 
